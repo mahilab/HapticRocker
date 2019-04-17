@@ -6,3 +6,4 @@ using namespace mel;
 void MyClass::hello_world() const {
     print("Hello, World!");
 }
+
