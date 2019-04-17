@@ -19,6 +19,7 @@ bool my_handler(CtrlEvent event) {
     return 1;
 }
 
+
 int main() {
 
     register_ctrl_handler(my_handler);
